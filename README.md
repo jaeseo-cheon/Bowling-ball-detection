@@ -1,1 +1,1 @@
-# Bowling-ball-detection
+볼링공 감지 인공지능
